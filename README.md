@@ -1,2 +1,2 @@
-# SoftEng-Project-NTUA
-Software Engineering Project, ECE NTUA
+# demo for SoftEng-Project-NTUA
+Demo for Software Engineering Project 
